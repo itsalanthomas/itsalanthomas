@@ -9,12 +9,13 @@ I'm a Data Scientist with a passion for building real-world, data-driven solutio
 - 🔎 Currently exploring and using data to predict marathon performance
 - 🧠 Exploring intersections of data with human behavior
 - 📊 Enjoy transforming raw data into visual stories with Pandas, Seaborn, and Tableau
+- 
 
 ---
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)(https://img.shields.io/badge/LinkedIn-Alan%20Thomas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsalthomas/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/itsalthomas/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.a.thomas062701@gmail@gmail.com)
 
 ---

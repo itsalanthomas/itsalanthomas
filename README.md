@@ -1,6 +1,6 @@
 # Hey there, I'm Alan 👋🏽
 
-I'm a Data Scientist with a background in Finance and a passion for building real-world, data-driven solutions. Whether it’s optimizing business problems with machine learning or tracking personal progress in the gym, I love using data to solve meaningful problems.
+I'm a Data Scientist with a passion for building real-world, data-driven solutions. Whether it’s optimizing business problems with machine learning or tracking personal progress in the gym, I love using data to solve meaningful problems.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a Data Scientist with a background in Finance and a passion for building rea
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Thomas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsalthomas/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)(https://img.shields.io/badge/LinkedIn-Alan%20Thomas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsalthomas/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.a.thomas062701@gmail@gmail.com)
 
 ---

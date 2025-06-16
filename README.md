@@ -14,8 +14,8 @@ I'm a Data Scientist with a background in Finance and a passion for building rea
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Al%20Thomas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsalthomas/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Thomas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsalthomas/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.a.thomas062701@gmail@gmail.com)
 
 ---
 

@@ -1,4 +1,4 @@
-# Hey there, I'm Alan hey 👋🏽
+# Hey there, I'm Alan 👋🏽
 
 I'm a Data Scientist with a background in Finance and a passion for building real-world, data-driven solutions. Whether it’s optimizing business problems with machine learning or tracking personal progress in the gym, I love using data to solve meaningful problems.
 

@@ -33,14 +33,6 @@ I'm a Data Scientist with a passion for building real-world, data-driven solutio
 ---
 
 
-## 📊 Weekly Development Breakdown
-
-Curiosity     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        35%
-Python        ▓▓▓▓▓▓▓▓▓▓▓                   25%
-SQL           ▓▓▓▓▓▓▓                       15%
-Luck          ▓▓                            5%
-Storytelling  ▓▓▓▓▓▓                        15%
-Willpower     ▓▓▓▓                          10%
 
 
 
